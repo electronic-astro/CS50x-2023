@@ -1,6 +1,3 @@
-# CS50x-2023
-Cs50x Final Project
-
 # LiveWeatherWebsitte
 
 #### Video Demo: <https://www.youtube.com/watch?v=d_KAVmAmeyk>
@@ -27,4 +24,3 @@ An Weather website that lets you create QR codes for free with options for custo
 ## Credits
 
 This project was created by [Fatemeh Nabidoust](https://github.com/electronic-astro).
-
